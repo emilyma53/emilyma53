@@ -5,7 +5,7 @@ I am currently a Senior at UC Berkeley (Class of 2022 🐻) majoring in Computer
 
 In the past, I have contributed to various astronomy research projects and even discovered a supernova! I am passionate about art, outer space, and creating new things—especially the intersection of my interests found in physical simulations and games. 
 
-You can learn more about me at my personal website <a href="http://www.emilyma53.github.io">emilyma53.github.io</a>
+You can learn more about me at my personal website: <a href="http://emilyma53.github.io">emilyma53.github.io</a>.
 
 
 [![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilyma53&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
